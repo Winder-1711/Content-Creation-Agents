@@ -1,18 +1,17 @@
 # Content Creation Agents
 
-Agentes diseñados para generación de contenido con IA.
+Agentes de **Relevance AI** para automatizar la creación de contenido y el crecimiento en redes sociales.
 
-## Casos de uso
+## Agentes
 
-### Ghostwriter Estratégico
+- **LinkedIn Growth Hacking** — busca noticias y novedades del sector del usuario y publica automáticamente en LinkedIn.
+- **Ghostwriter Estratégico** — crea contenido persuasivo y profesional para LinkedIn e Instagram desde una perspectiva de marca definida.
+- **Instagram Content Creator** — genera contenido de alto engagement para marketing digital en Instagram.
 
-- Creación de contenido
+## Stack
 
-### LinkedIn Growth Hacking
+Relevance AI · APIs de LinkedIn/Instagram · generación de contenido con LLM
 
-- Investigación de tendencias
-- Optimización de publicaciones
+## Licencia
 
-### LinkedIn Content Agent
-
-- Automatización de contenido profesional# Content-Creation-Agents
+MIT — ver [LICENSE](LICENSE).
